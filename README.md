@@ -1,6 +1,9 @@
-### Hi there 👋
-
+### ✨ Howdy, Space Cowboy ✨
 <!--
+I'm a Software Engineer from Vilnius, Lithuania.
+
+I'm currently working as a tech lead at [RoboLabs](https://github.com/robolabs-lt)
+
 **KlaudijusM/klaudijusm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
