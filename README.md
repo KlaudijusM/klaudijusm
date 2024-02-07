@@ -1,4 +1,6 @@
-### ✨ Howdy, Space Cowboy ✨
+<h2><p align="center">
+✨ Howdy, Space Cowboy ✨
+</p></h2>
 <!--
 I'm a Software Engineer from Vilnius, Lithuania.
 
